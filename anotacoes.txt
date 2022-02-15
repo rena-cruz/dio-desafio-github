@@ -1,0 +1,26 @@
+Frase dita pelo professor Venilton FalvoJr durante sua apresentação.
+
+“Alguém está sentado na sombra hoje porque alguém plantou uma
+árvore há muito tempo.” Warren Buffett
+
+**Desafio do Projeto**
+
+Use todo seu conhecimento em Git e GitHub para criar o seu repositório.
+
+**Requisitos**
+
+> Noções básicas de Git/GitHub - ok
+> Git devidamente instalado (usaremos o Git Bash) - ok
+> Engajamento e vontade de aprender - ok
+
+**Comandos úteis do Git**
+>Repositório Local
+
+> Verificar estado dos arquivos (git status)
+> Adicionar um arquivo 		(git add .)
+> Comitar um arquivo 		(git commit)
+> Enviar arquivo 		(git push)
+
+**Links úteis**
+
+https://www.markdownguide.org/basic-syntax/
